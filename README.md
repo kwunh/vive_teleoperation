@@ -25,7 +25,7 @@ To build the teleoperation system, create a ROS workspace
 ```bash
 mkdir -p baxter_ws/src or similar
 cd baxter_ws/src
-git clone https://github.com/flightlesskite/
+git clone https://github.com/flightlesskite/vive_teleoperation
 cd ..
 # or catkin build
 catkin_make
@@ -103,6 +103,7 @@ $ python right_eye.py
 
 ### Running zed_htc (Unity Application)
 
-Ensure ZED Camera and HTC Vive are connected to the Linux machine
+Ensure ZED Camera and HTC Vive are connected to the Linux machine.  
+
 Simply double click the provided executable in zed_htc: zed_camera.x86_64
 
