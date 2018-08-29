@@ -1,0 +1,4 @@
+<launch>
+	<include file="$(find htc_publisher)/launch/tf_and_joy.launch"/>
+	<include file="$(find htc_publisher)/launch/controllers_to_posestamped.launch"/>
+</launch>
