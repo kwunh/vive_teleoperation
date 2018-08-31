@@ -1,6 +1,6 @@
 # Baxter Teleoperation system using HTC Vive
 
-A Baxter teleoperation system that runs on a single Linux Ubuntu (16.04) machine
+A Baxter teleoperation system that runs on a single Linux Ubuntu (16.04) machine.  An example of this system being demonstrated is available <a href="https://www.youtube.com/watch?v=3GzbZMFeiFI">here</a>
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
