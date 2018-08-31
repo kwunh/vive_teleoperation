@@ -48,6 +48,7 @@ $ roslaunch htc_publisher htc_publisher.launch
 ```
 
 *OPTIONAL IF RUNNING BAXTER SIMULATION*
+
 3.1) Launch RVIZ for tf visualisation:
 ```bash
 $ rosrun rviz rviz
