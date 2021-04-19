@@ -25,7 +25,7 @@ To build the teleoperation system, create a ROS workspace
 ```bash
 mkdir -p baxter_ws/src or similar
 cd baxter_ws/src
-git clone https://github.com/flightlesskite/vive_teleoperation
+git clone https://github.com/kwunh/vive_teleoperation
 cd ..
 # or catkin build
 catkin_make
